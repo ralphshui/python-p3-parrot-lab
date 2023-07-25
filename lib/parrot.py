@@ -1,2 +1,3 @@
-def parrot():
-    pass
+def parrot(comm = "Squawk!"):
+    print(comm) 
+    return comm 
